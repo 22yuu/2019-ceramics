@@ -1,0 +1,140 @@
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe.config
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\bin\Debug\ceramics_test.pdb
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.exe
+c:\users\atom_project\source\repos\ceramics_test\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\최철호\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csprojResolveAssemblyReference.cache
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.Cache
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹\K-means-세라믹\ceramics_test\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.csprojResolveAssemblyReference.cache
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\hopo5\Desktop\아톰\세라믹\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (결함추출완료)\ceramics_test (결함추출완료)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\K-means-세라믹(결함추출완료)_8미리수정중\K-means-세라믹(결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test (결함추출완료)_8미리수정중\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.csprojResolveAssemblyReference.cache
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.Cache
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\emqhd\Desktop\K-means-세라믹\ceramics_test (결함추출완료)_8미리수정중 (11_23)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.csprojResolveAssemblyReference.cache
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\hopo5\Desktop\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\잡음제거\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test (결함추출완료)_8미리수정중 (11_24)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.csprojResolveAssemblyReference.cache
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.Cache
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\emqhd\Desktop\논문\논문(세라믹)\ceramics_test (1차 결함추출완료)_ (11_25)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.csprojResolveAssemblyReference.cache
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.Cache
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\94_ju\Desktop\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\bin\Debug\ceramics_test.exe.config
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\bin\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\bin\Debug\ceramics_test.pdb
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.csprojAssemblyReference.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.Form1.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.Properties.Resources.resources
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.csproj.GenerateResource.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.csproj.CoreCompileInputs.cache
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.exe
+C:\Users\Atom_Project\Desktop\최철호\논문(세라믹)\ceramics_test (최종본)\ceramics_test (최종본)\ceramics_test\obj\Debug\ceramics_test.pdb
