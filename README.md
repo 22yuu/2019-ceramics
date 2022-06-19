@@ -71,4 +71,4 @@
 
 > ### 수상
 
-![우수논문상](imgs/prize.png)
+![우수논문상](imgs/prize.jpg)
