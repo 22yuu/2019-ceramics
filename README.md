@@ -53,15 +53,13 @@
 
 - 기존 논문에서의 검출 실패 영상
 
-  ![OLD](imgs/old_result.png)  
+  <img src="imgs/old_result.png" width="800" height="400"/>
 - 제안된 방법에서 검출한 영상
   
-  ![RESULT](imgs/result.png)
-
+  <img src="imgs/result.png" width="800" height="400"/>
 - 실행화면
 
-  ![EXECUTE](imgs/execute_gif.gif)
- 
+  <img src="imgs/execute_gif.gif" width="800" height="400"/>
 </br>
 
 > ### 결론 및 향후 연구 방향
@@ -71,4 +69,4 @@
 
 > ### 수상
 
-![우수논문상](imgs/prize.jpg)
+<p align="center"><img src="imgs/prize.jpg" width="400" height="600"/></p>
